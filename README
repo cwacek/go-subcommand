@@ -1,0 +1,3 @@
+A package to make using subcommands in Go much easier.
+
+Borrowed from this Gist: https://gist.github.com/srid/3949446
